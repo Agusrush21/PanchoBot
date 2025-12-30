@@ -7,7 +7,7 @@ from discord.ext import commands
 from parametros import COMMAND
 import webserver
 
-load_dotenv()
+# load_dotenv()
 TOKEN = os.getenv("TOKEN")
 
 intents = ds.Intents.default()
