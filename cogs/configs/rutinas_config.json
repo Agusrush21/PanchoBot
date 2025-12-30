@@ -1,0 +1,110 @@
+{
+    "canal_id": 1453157033326149786,
+    "biblioteca_musical": [
+        {
+            "id": 1,
+            "titulo": "Rom\u00e1ntico Viajero",
+            "artista": "Hinchada Universidad de Chile",
+            "genero": "C\u00e1ntico F\u00fatbol",
+            "letra": "Amigos yo quiero a la U\nJam\u00e1s la voy a olvidar\nTodo me lo dio, todo se lo doy\nEl rom\u00e1ntico viajero soy.\n\nAunque no ganemos en la cancha\nEsta hinchada no te dejar\u00e1\nMi vida no la imagino\nSin la U de mi coraz\u00f3n."
+        },
+        {
+            "id": 2,
+            "titulo": "Himno de Colo-Colo (Fragmento)",
+            "artista": "Hinchada Colo-Colo",
+            "genero": "C\u00e1ntico F\u00fatbol",
+            "letra": "Cantemos todos, de Arica a Magallanes\nPor Colo-Colo, ejemplo de valor\nPor su hidalgu\u00eda no hay nadie quien lo gane\nPorque defiende con gloria el tricolor.\n\nEs Colo-Colo como el gran araucano\nQue va a la lucha tenaz sin descansar\nPorque el recuerdo de David Arellano\nSiempre lo gu\u00eda por la senda triunfal."
+        },
+        {
+            "id": 3,
+            "titulo": "Un a\u00f1o m\u00e1s",
+            "artista": "La Sonora Palacios",
+            "genero": "Cumbia Chilena",
+            "letra": "Un a\u00f1o m\u00e1s que se va\nUn a\u00f1o m\u00e1s, cuantos se han ido\nUn a\u00f1o m\u00e1s, que m\u00e1s da\nCuantos se han ido ya.\n\nUn a\u00f1o m\u00e1s que se va\nUn a\u00f1o m\u00e1s, que se ha metido\nUn a\u00f1o m\u00e1s, que m\u00e1s da\nSi has gozado tambi\u00e9n."
+        },
+        {
+            "id": 4,
+            "titulo": "El hombre que yo amo",
+            "artista": "Myriam Hern\u00e1ndez",
+            "genero": "Balada Rom\u00e1ntica",
+            "letra": "El hombre que yo amo\nTiene algo de ni\u00f1o\nLa sonrisa ancha\nTierna la mirada.\n\nTiene la palabra de mil hombres juntos\nY es mi loco amante\nSabio, inteligente\nEl hombre que yo amo."
+        },
+        {
+            "id": 5,
+            "titulo": "Te Vas",
+            "artista": "Am\u00e9rico",
+            "genero": "Cumbia",
+            "letra": "Te vas, te vas\nY no te importa mi sufrimiento\nTe llevas mi amor, te llevas mi vida\nY me dejas solo en este tormento.\n\nY te buscar\u00e9, bandida, te buscar\u00e9\nPorque te quiero y no te podr\u00e9 olvidar\nAunque pase el tiempo yo te esperar\u00e9."
+        },
+        {
+            "id": 6,
+            "titulo": "Soy de la U",
+            "artista": "Hinchada Universidad de Chile",
+            "genero": "C\u00e1ntico F\u00fatbol",
+            "letra": "Soy de la U, de la Universidad de Chile\nSoy de la U, tengo el coraz\u00f3n azul\nLo digo con el alma, soy azul de coraz\u00f3n\nLo digo con orgullo, lo digo con amor.\n\nVen a cantar alegre porque vamos a ganar\nMiles de voces juntas en un canto de unidad."
+        },
+        {
+            "id": 7,
+            "titulo": "El Bulla va caminando",
+            "artista": "Hinchada Universidad de Chile",
+            "genero": "C\u00e1ntico F\u00fatbol",
+            "letra": "El Bulla va caminando para Pedreros\nEl indio pide custodia porque es cag\u00f3n\nVamos a romper los ba\u00f1os y el alambrado\nPara ver cual hinchada es la mejor.\n\nPorque el Bulla es un sentimiento\nQue se lleva en el coraz\u00f3n\nYo dar\u00eda toda mi vida\nPor ser campe\u00f3n."
+        },
+        {
+            "id": 8,
+            "titulo": "Campe\u00f3n hay uno solo",
+            "artista": "Hinchada Colo-Colo",
+            "genero": "C\u00e1ntico F\u00fatbol",
+            "letra": "Campe\u00f3n, campe\u00f3n\nCampe\u00f3n hay uno solo\nSe llama Colo-Colo\nEl eterno campe\u00f3n.\n\nCantemos todos de Arica a Magallanes\nPor Colo-Colo ejemplo de valor\nVamos Cacique, te queremos ver ganar."
+        },
+        {
+            "id": 9,
+            "titulo": "25 A\u00f1os les cost\u00f3",
+            "artista": "Hinchada Colo-Colo",
+            "genero": "C\u00e1ntico F\u00fatbol",
+            "letra": "25 a\u00f1os les cost\u00f3 salir campe\u00f3n\nEn ese tiempo el Colo fue tricampe\u00f3n\nSupercampe\u00f3n, campe\u00f3n de la Libertadores\nLa Libertadores no tendr\u00e1n nunca jam\u00e1s\nPorque esa copa ya la tiene su pap\u00e1."
+        },
+        {
+            "id": 10,
+            "titulo": "Qu\u00e9 Calor",
+            "artista": "Supermerk2",
+            "genero": "Cumbia Villera",
+            "letra": "Qu\u00e9 calor, eo eo\nQu\u00e9 calor que tengo yo\nQue levante la mano como yo\nEl que quiera un vino en cart\u00f3n.\n\nY las manitos arriba\nY las manitos arriba\nPorque el que no hace palmas\nLa gorra se la ponga."
+        },
+        {
+            "id": 11,
+            "titulo": "Mar\u00eda Mar\u00eda",
+            "artista": "La Sonora Malec\u00f3n",
+            "genero": "Cumbia",
+            "letra": "Yo tuve un amor que se llama Mar\u00eda\nYo tuve un amor que se llama Mar\u00eda\nSe cas\u00f3 con otro porque la abandon\u00e9\nSe cas\u00f3 con otro porque la abandon\u00e9.\n\nAy, Mar\u00eda, Mar\u00eda, te quiero todav\u00eda\nAy, Mar\u00eda, Mar\u00eda, te quiero todav\u00eda."
+        },
+        {
+            "id": 12,
+            "titulo": "Negra Caderona",
+            "artista": "Aniceto Molina",
+            "genero": "Cumbia",
+            "letra": "Negra, negra, negra caderona\nNegra, negra, t\u00fa s\u00ed bailas cumbia\nNegra, negra, negra caderona\nNegra, negra, t\u00fa s\u00ed bailas cumbia.\n\nT\u00fa mueves la cintura con mucho movimiento\nQue yo tambi\u00e9n lo siento con mucha sabrosura."
+        },
+        {
+            "id": 13,
+            "titulo": "Amor Eterno",
+            "artista": "Juan Gabriel",
+            "genero": "Balada Rom\u00e1ntica",
+            "letra": "T\u00fa eres la tristeza de mis ojos\nQue lloran en silencio por tu amor\nMe miro en el espejo y veo en mi rostro\nEl tiempo que he sufrido por tu adi\u00f3s.\n\nComo quisiera, ay, que t\u00fa vivieras\nQue tus ojitos jam\u00e1s se hubieran cerrado nunca\nY estar mir\u00e1ndolos."
+        },
+        {
+            "id": 14,
+            "titulo": "Eres",
+            "artista": "Caf\u00e9 Tacvba",
+            "genero": "Rock Rom\u00e1ntico",
+            "letra": "Eres, lo que m\u00e1s quiero en este mundo, eso eres\nMi pensamiento m\u00e1s profundo tambi\u00e9n eres\nTan s\u00f3lo dime lo que hago, aqu\u00ed me tienes.\n\nEres, cuando despierto lo primero, eso eres\nLo que a mi vida le hace falta si no vienes\nLo \u00fanico, preciosa, que mi mente habita hoy."
+        },
+        {
+            "id": 15,
+            "titulo": "Antolog\u00eda",
+            "artista": "Shakira",
+            "genero": "Pop Rom\u00e1ntico",
+            "letra": "Para amarte necesito una raz\u00f3n\nY es dif\u00edcil creer que no exista una m\u00e1s que este amor\nSobra tanto dentro de este coraz\u00f3n\nQue a pesar de que dicen que los a\u00f1os son sabios\nTodav\u00eda se siente el dolor.\n\nPorque todo el tiempo que pas\u00e9 junto a ti\nDej\u00f3 tejido su hilo dentro de m\u00ed."
+        }
+    ]
+}
