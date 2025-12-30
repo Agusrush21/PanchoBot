@@ -34,7 +34,7 @@ async def main():
 
 if __name__ == '__main__':
     try:
-
+        webserver.keep_alive()
         asyncio.run(main())
     except KeyboardInterrupt:
         # Permite cerrar el bot con Ctrl+C sin errores feos
