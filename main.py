@@ -8,7 +8,7 @@ from parametros import COMMAND
 import webserver
 
 # load_dotenv()
-TOKEN = os.getenv("TOKEN")
+TOKEN = os.getenv("DISCORD_TOKEN")
 
 intents = ds.Intents.default()
 intents.message_content = True # Para leer comandos
